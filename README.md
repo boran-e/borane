@@ -1,10 +1,11 @@
-# CodzaSmsBomber
-nasıl çalışır
+# boranesms
 
-git clone https://github.com/404codza/CodzaSmsBomber.git
+Nasıl Çalışır
 
-cd CodzaSmsBomber
+git clone https://github.com/boran-e/borane
 
-python3 CodzaSms.py
+cd borane
 
-Not=enough reborn kodlarından yararlanılmıştır
+python3 boranesms.py
+
+Not = enough reborn kodlarından yararlanılmıştır.
